@@ -22,10 +22,14 @@ To run the project locally, follow these steps:
 * Run npm install to install the required npm packages.
 
 # Usage
+* Start by running the database migrations using rails db:migrate in the main directory to set up the required database tables.
 * Start the development server by running rails server in the main directory.
 * Open a web browser and navigate to http://localhost:3000 to access the application.
-* Use the dropdown menus to create custom clues for a logic puzzle.
-* Analyze the clues and determine the positions of each neighbor using the provided GUI.
+* You can solve puzzles without creating an account by selecting existing puzzles from the puzzle list.
+*  Analyze the clues and determine the positions of each neighbor using the provided GUI.
+* To create your own puzzles and have your solving statistics tracked, sign up for an account by clicking on the "Sign Up" button.
+* Once logged in, you can generate custom logic puzzles using the dropdown menus to create clues.
+* The app will tell you when you have given enough clues for the puzzle to be solveable.
 * Track your progress and explore puzzles created by other users.
 
 # Contributing
