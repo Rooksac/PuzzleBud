@@ -1,6 +1,6 @@
 # My Neighbors
 
-My Neighbors is a web application built using React and Ruby on Rails. It allows users to solve logic puzzles about neighbors living in an apartment building. The puzzles involve determining the relative positions of 4-6 neighbors on different floors. The app provides a user-friendly GUI powered by React-beautiful-dnd, making it easy and intuitive to solve the puzzles.
+My Neighbors is a web application built using React and Ruby on Rails. It allows users to solve or generate logic puzzles about neighbors living in an apartment building. The puzzles involve determining the relative positions of 4-6 neighbors on different floors. The app provides a user-friendly GUI powered by React-beautiful-dnd, making it easy and intuitive to solve the puzzles.  When genrating a puzzle, the app will ensure that your clues are sufficent to solve the puzzle.
 
 # Features
 * Generate custom logic puzzles about neighbors' positions using dropdown menus and clues.
