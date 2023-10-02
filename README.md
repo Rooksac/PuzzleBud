@@ -8,7 +8,8 @@ My Neighbors is a web application built using React and Ruby on Rails. It allows
 * Track your puzzle-solving progress and see how many puzzles you have solved.
 * Explore puzzles created by other users and challenge yourself to solve them.
 * Keep track of how many times your created puzzles have been successfully solved by others.
-* Technologies Used
+  
+# Technologies Used
 * React: A JavaScript library for building user interfaces.
 * Ruby on Rails: A web application framework for building server-side applications.
 * React-beautiful-dnd: A library for creating beautiful drag-and-drop interfaces in React.
